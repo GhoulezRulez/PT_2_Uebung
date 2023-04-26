@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-
+        String a;
         Buch b = new Buch();
         b.setPrice(1.23);
         b.setWeight(12);
